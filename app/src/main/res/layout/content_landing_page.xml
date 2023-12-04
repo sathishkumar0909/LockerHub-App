@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    android:orientation="vertical"
+    android:gravity="center"
+    >
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_marginVertical="20dp"
+        android:id="@+id/delivery"
+        android:layout_gravity="center">
+        <TextView
+            android:paddingVertical="20dp"
+            android:paddingHorizontal="100dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Delivery"
+            android:textColor="@color/white"
+            android:background="@color/primary"
+            />
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="20dp"
+        android:id="@+id/customer"
+        android:textAlignment="center"
+        android:layout_gravity="center">
+        <TextView
+            android:paddingVertical="20dp"
+            android:paddingHorizontal="95dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Customer"
+            android:textColor="@color/white"
+            android:background="@color/primary"
+            />
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

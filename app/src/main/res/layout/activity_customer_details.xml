@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".customer_details"
+    android:gravity="center"
+    android:orientation="vertical"
+    >
+    <com.google.android.material.textfield.TextInputEditText
+        android:layout_marginHorizontal="50dp"
+        android:id="@+id/productid"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Product ID"
+        />
+    <com.google.android.material.textfield.TextInputEditText
+        android:layout_marginHorizontal="50dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/custname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Customer Name"
+        />
+    <com.google.android.material.textfield.TextInputEditText
+        android:layout_marginHorizontal="50dp"
+        android:id="@+id/custph"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Customer Phone Number"
+        />
+    <com.google.android.material.textfield.TextInputEditText
+        android:layout_marginHorizontal="50dp"
+        android:id="@+id/custmail"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Customer Mail ID"
+        />
+
+<Button
+    android:layout_marginHorizontal="100dp"
+    android:layout_marginTop="20dp"
+    android:id="@+id/finish"
+    android:text="Finish"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"/>
+</LinearLayout>
