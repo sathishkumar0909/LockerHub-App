@@ -9,8 +9,7 @@ Secure Package Storage: Electronically controlled solenoid locks ensure secure s
 User-Friendly Applications: Intuitive web and mobile applications empower customers to select lockers, retrieve products, and enter one-time passwords (OTPs) for secure access.
 Real-Time Communication: Seamless communication between the hardware components and cloud servers ensures real-time data exchange and synchronization.
 Scalable Architecture: Cloud-based infrastructure allows for easy scalability to handle varying workloads and ensure high availability.
-<img src="[https://your-image-url.type](https://github.com/sathishkumar0909/LockerHub-App/assets/89453856/87ae6822-33f7-4b77-a9b3-6d09cb58488f)" width="100" height="100">
-![Screenshot_2023-12-01-21-09-26-39_a7954328be81a4812219bc7764e12418]( | width=100)
+<img width="171" alt="Screenshot 2023-04-11 192545" src="https://github.com/sathishkumar0909/LockerHub-App/assets/89453856/87ae6822-33f7-4b77-a9b3-6d09cb58488f">
 ![IMG20231126235905](https://github.com/sathishkumar0909/LockerHub-App/assets/89453856/cdd3b8d4-3d4d-4f97-a61f-e4a021408976 | width=100)
 ![IMG20231127002028](https://github.com/sathishkumar0909/LockerHub-App/assets/89453856/72108345-1c28-46a1-bd3c-77a8085d762f | width=100)
 ![IMG20231126235826](https://github.com/sathishkumar0909/LockerHub-App/assets/89453856/21970758-dd56-4880-921d-7e90b21ee18b | width=100)
